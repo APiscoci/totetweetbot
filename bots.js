@@ -4,7 +4,7 @@ const tweetBot = new Twit(config);
 const fs = require('fs');
 
 const tweet = {
-  status: 'Today ',
+  status: 'HELLO ANTONIA ',
 };
 async function postStatus(tweet) {
   tweetBot.post('statuses/update', tweet, (err, res) => {
