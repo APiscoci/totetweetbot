@@ -2,10 +2,10 @@
   "name": "totetweetbot",
   "version": "1.0.0",
   "description": "Tote Twitter bot",
-  "main": "bot.js",
+  "main": "bots.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node bot.js"
+    "start": "node bots.js"
   },
   "author": "Anca P",
   "license": "ISC",
